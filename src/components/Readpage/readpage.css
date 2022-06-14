@@ -1,0 +1,41 @@
+.read_container {
+  margin-top: 30px;
+  padding-right: 600px;
+  padding-left: 600px;
+  text-align: justify;
+  width: 650px;
+}
+
+.read_card_image {
+  height: 450px;
+  width: 630px;
+}
+
+.read_card_heading {
+  font-size: x-large;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.read_details {
+  font-weight: lighter;
+  color: #666;
+  font-size: medium;
+  margin-top: 30px;
+}
+
+.read_card_heading_details {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.read_article_data {
+  font-weight: lighter;
+  font-size: larger;
+  border-bottom: #666 1px solid;
+}
+
+.uppar_contaier {
+  width: auto;
+}

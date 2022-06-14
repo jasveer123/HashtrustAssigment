@@ -1,0 +1,27 @@
+.card_image {
+  height: 197px;
+  border-radius: 5px;
+  width: 300px;
+}
+
+.card_heading_details {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card_heading {
+  font-size: large;
+  font-weight: 400;
+  margin-top: 5px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.details {
+  font-weight: lighter;
+  color: #666;
+  font-size: medium;
+  margin-top: 5px;
+}

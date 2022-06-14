@@ -1,0 +1,30 @@
+.mainarea_container {
+  padding-top: 30px;
+  width: auto;
+  border-bottom: 1px rgb(233, 216, 216) solid;
+}
+
+.Article_container {
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  grid-template-rows: 300px 300px;
+  grid-gap: 40px;
+  justify-content: center;
+}
+
+
+
+.main_area_heading {
+  margin-top: 10px;
+  font-size: xx-large;
+  padding-left: 290px;
+  font-weight: bold;
+}
+.main_area_subheading {
+  margin-top: 20px;
+  font-size: x-large;
+  padding-left: 290px;
+  margin-bottom: 30px;
+  font-weight: lighter;
+  color: #666;
+}

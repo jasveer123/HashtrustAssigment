@@ -1,0 +1,51 @@
+.comment_container {
+  margin-top: 20px;
+}
+
+.comment-btn {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  outline: none;
+  background-color: rgb(209, 224, 224);
+  color: black;
+  border: none;
+}
+
+.text-area {
+  width: 650px;
+  height: 100px;
+  outline: none;
+}
+
+.uppar_comment_container {
+  height: 1000px;
+}
+
+.Avatar {
+  margin-top: 30px;
+}
+
+.comment_div {
+  margin-left: 50px;
+  background-color: rgb(232, 248, 248);
+  height: 50px;
+  border-radius: 10px;
+  padding: 4px;
+  padding-left: 10px;
+  font-weight: lighter;
+}
+
+.replies {
+  margin-left: 80px;
+  margin-top: 20px;
+}
+
+.action {
+  padding-left: 30px;
+  font-weight: lighter;
+}
+
+#action1 {
+  margin-left: 20px;
+}
